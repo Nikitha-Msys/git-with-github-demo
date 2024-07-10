@@ -1,3 +1,6 @@
+
+
+#add this line to domonstrate on "git pust" command
 # www.robotstxt.org/
 # Allow crawling of all content
 User-agent: *
